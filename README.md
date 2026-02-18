@@ -52,8 +52,6 @@ The goal is to analyze employee-related features and build a model that can accu
 ---
 
 
----
-
 ## 📈 Business Applications
 
 - HR salary benchmarking  
